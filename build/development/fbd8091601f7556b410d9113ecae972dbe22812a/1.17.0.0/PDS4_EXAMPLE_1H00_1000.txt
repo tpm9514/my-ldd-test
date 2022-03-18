@@ -7,7 +7,7 @@ Configuration:
    LDD Discipline (T/F):  true
    LDD Namespace URL:     http://pds.nasa.gov/pds4/
    LDD URN Prefix:        urn:nasa:pds:
-   Time                   Wed Oct 27 19:33:37 UTC 2021
+   Time                   Fri Mar 18 17:49:44 UTC 2022
    Common Schema          [PDS4_PDS_1H00.xsd]
    Common Schematron      [PDS4_PDS_1H00.sch]
    IM Version Id:         1.17.0.0
@@ -20,7 +20,7 @@ Configuration:
    IM Document Spec       [DMDocument.pins]
 
 Parameters:
-   Input File             [/home/runner/work/ldd-template/ldd-template/src/PDS4_EXAMPLE_IngestLDD.xml]
+   Input File             [/home/runner/work/my-ldd-test/my-ldd-test/src/PDS4_EXAMPLE_IngestLDD.xml]
    PDS Processing         true
    LDD Processing         true
    Discipline LDD         true
